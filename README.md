@@ -8,7 +8,7 @@ States
 
 Props
 
-No Way Binding
+Two Way Binding
 
 And Many Basic Concepts of React Js
 
